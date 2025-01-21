@@ -1,5 +1,7 @@
 # Calorie-Counter-App-fcc
 
+![alt text](<Screenshot 2025-01-21 at 10.19.18.png>)
+
 ## Table of Contents
 
 * [Description](#description)
